@@ -1,5 +1,1 @@
-```js
-
-console.log("I like to code")
-
-```
+i like to code
