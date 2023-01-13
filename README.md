@@ -1,1 +1,1 @@
-I like to code stuff
+I'm Hugo. I like to code!
